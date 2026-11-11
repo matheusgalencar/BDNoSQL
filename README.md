@@ -1,13 +1,13 @@
-#Atividades
+# Atividades
 
-###Atividades estão separadas por pastas:
+### Atividades estão separadas por pastas:
 
-- *Respostas* estão guardando os PDF's com as respostas das atividades
+- **Respostas** estão guardando os PDF's com as respostas das atividades
 - Os demais arquivos são somente as atividades
 
-#Certificados
+# Certificados
 
-###Estão separados por:
+### Estão separados por:
 
-- Skills em uma pasta separada
-- Demais certificados na pasta principal de Certificados
+- **Skills** em uma pasta separada
+- Demais certificados na pasta principal de **Certificados**
